@@ -1,4 +1,6 @@
 import pandas as pd
+import sklearn as sklearn
+
 congress = pd.read_csv('congress_cleaned.csv')
 
 df = congress.copy()
