@@ -1,0 +1,5 @@
+numpy @ file:///croot/numpy_and_numpy_base_1672336185480/work
+streamlit==1.17.0
+pandas==1.5.2
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///croot/pytz_1671697431263/work
