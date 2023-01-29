@@ -1,0 +1,540 @@
+Party,Age,Tenure,Religion
+Republican,40,0,Methodist
+Republican,68,2,Restorationist
+Republican,65,0,Roman Catholic
+Republican,58,8,Roman Catholic
+Democratic,58,3,Unspecified Protestant
+Independent,46,4,Agnostic
+Republican,72,12,Baptist
+Republican,45,8,Methodist
+Democratic,89,31,Jewish
+Democratic,49,2,Roman Catholic
+Democratic,58,14,Unknown
+Democratic,70,2,Quaker
+Democratic,76,12,Jewish
+Democratic,49,10,Roman Catholic
+Democratic,76,22,Presbyterian
+Democratic,59,13,Presbyterian
+Republican,51,12,Roman Catholic
+Republican,70,4,Baptist
+Democratic,35,2,Jewish
+Democratic,53,2,Baptist
+Democratic,75,10,Buddhist
+Democratic,50,11,Jewish
+Republican,71,24,Mormon
+Republican,79,14,Roman Catholic
+Democratic,54,6,Unknown
+Democratic,78,26,Roman Catholic
+Republican,68,4,Roman Catholic
+Republican,50,6,Unspecified Protestant
+Republican,52,8,Lutheran
+Republican,89,42,Baptist
+Republican,62,2,Restorationist
+Republican,68,12,Baptist
+Republican,80,38,Baptist
+Republican,60,12,Presbyterian
+Republican,65,8,Nondenominational Protestant
+Republican,71,6,Methodist
+Republican,70,26,Methodist
+Independent,78,10,Episcopalian
+Democratic,79,16,Jewish
+Democratic,64,6,Episcopalian
+Democratic,76,10,Roman Catholic
+Democratic,73,10,Methodist
+Democratic,64,8,Lutheran
+Democratic,72,22,Methodist
+Democratic,62,16,Congregationalist
+Democratic,64,5,Unspecified Protestant
+Republican,63,5,Baptist
+Republican,71,16,Baptist
+Republican,43,4,Presbyterian
+Republican,47,0,Roman Catholic
+Republican,60,8,Presbyterian
+Democratic,66,16,Wesleyan-Holiness Evangelical
+Republican,71,10,Presbyterian
+Republican,58,0,Roman Catholic
+Democratic,58,6,Roman Catholic
+Democratic,65,4,Jewish
+Democratic,64,6,Congregationalist
+Democratic,75,14,Unspecified Protestant
+Democratic,53,10,Baptist
+Democratic,69,17,Roman Roman Catholic
+Democratic,51,10,Lutheran
+Democratic,50,2,Roman Catholic
+Democratic,56,14,Roman Catholic
+Democratic,72,24,Jewish
+Republican,51,0,Nondenominational Protestant
+Republican,62,8,Roman Catholic
+Republican,62,4,Pentecostal
+Republican,65,12,Roman Catholic
+Democratic,70,16,Baptist
+Republican,38,0,Roman Catholic
+Republican,54,8,Baptist
+Republican,45,0,Roman Roman Catholic
+Democratic,66,14,Lutheran
+Democratic,73,27,Jewish
+Democratic,62,16,Baptist
+Democratic,53,0,Unknown
+Democratic,73,26,Roman Catholic
+Democratic,67,16,Episcopalian
+Republican,67,20,Baptist
+Republican,70,4,Baptist
+Republican,68,8,Roman Catholic
+Republican,62,18,Nondenominational Protestant
+Republican,70,4,Presbyterian
+Republican,63,2,Episcopalian
+Republican,70,21,Restorationist
+Republican,52,10,Episcopalian
+Republican,51,12,Unspecified Protestant
+Republican,75,4,Mormon
+Independent,81,16,Jewish
+Democratic,75,0,Roman Catholic
+Democratic,64,10,Roman Catholic
+Democratic,68,14,Presbyterian
+Democratic,64,22,Roman Catholic
+Democratic,72,30,Roman Catholic
+Republican,69,8,Presbyterian
+Democratic,75,13,Roman Catholic
+Democratic,60,10,Unknown
+Republican,67,12,Unspecified Protestant
+Republican,70,16,Presbyterian
+Republican,68,2,Lutheran
+Republican,64,2,Baptist
+Republican,56,2,Baptist
+Republican,64,20,Baptist
+Republican,57,26,Congregationalist
+Republican,52,0,Baptist
+Republican,68,8,Presbyterian
+Democratic,58,12,Methodist
+Democratic,49,1,Russian Orthodox
+Republican,75,8,Roman Catholic
+Republican,60,12,Roman Roman Catholic
+Republican,43,0,Unspecified Protestant
+Democratic,43,8,Roman Roman Catholic
+Democratic,52,4,Roman Roman Catholic
+Republican,64,6,Mormon
+Republican,40,0,Unspecified Protestant
+Democratic,74,20,Roman Roman Catholic
+Republican,64,5,Baptist
+Republican,64,12,Roman Roman Catholic
+Republican,57,12,Baptist
+Republican,66,8,Roman Roman Catholic
+Republican,65,12,Baptist
+Republican,55,8,Baptist
+Republican,62,10,Unspecified Protestant
+Democratic,58,10,Agnostic
+Republican,37,0,Non-Denominational Protestant
+Democratic,72,24,Unspecified Protestant
+Republican,66,14,Baptist
+Democratic,57,10,Unitarian Universalist
+Democratic,78,18,Methodist
+Democratic,78,14,Unspecified Protestant
+Democratic,36,4,Unspecified Protestant
+Democratic,70,8,Roman Roman Catholic
+Democratic,82,36,Roman Roman Catholic
+Democratic,51,12,Unspecified Protestant
+Republican,56,0,Episcopalian
+Democratic,42,10,Unspecified Protestant
+Democratic,45,0,Roman Roman Catholic
+Democratic,80,30,Eastern Roman Catholic
+Democratic,46,6,Hindu
+Democratic,75,28,Lutheran
+Democratic,53,6,Roman Roman Catholic
+Republican,58,16,Baptist
+Democratic,70,18,Roman Roman Catholic
+Republican,45,2,Roman Roman Catholic
+Republican,52,2,Unspecified Protestant
+Democratic,58,6,Roman Roman Catholic
+Democratic,50,10,Adventist
+Democratic,70,10,Episcopalian
+Republican,46,3,Unspecified Protestant
+Democratic,69,14,Unitarian Universalist
+Democratic,59,10,Unspecified Protestant
+Democratic,62,22,Jewish
+Democratic,86,24,Roman Roman Catholic
+Democratic,68,26,Jewish
+Democratic,43,8,Roman Roman Catholic
+Democratic,48,6,Roman Roman Catholic
+Democratic,57,8,Unspecified Protestant
+Democratic,53,8,Roman Roman Catholic
+Democratic,50,0,Lutheran
+Democratic,53,20,Roman Roman Catholic
+Democratic,62,10,Methodist
+Republican,60,2,Unspecified Protestant
+Republican,69,30,Episcopalian
+Democratic,46,3,Unspecified Protestant
+Democratic,84,32,Unspecified Protestant
+Democratic,46,6,Roman Roman Catholic
+Republican,67,2,Unspecified Protestant
+Democratic,65,6,Roman Roman Catholic
+Democratic,49,4,Episcopalian
+Republican,69,2,Antiochian Orthodox
+Democratic,44,4,Roman Roman Catholic
+Democratic,64,8,Lutheran
+Democratic,33,2,Jewish
+Democratic,61,10,Roman Roman Catholic
+Democratic,65,26,Presbyterian
+Democratic,38,4,Unspecified Protestant
+Republican,36,2,Non-Denominational Protestant
+Republican,63,8,Unspecified Protestant
+Republican,68,16,Unspecified Protestant
+Democratic,43,4,Non-Denominational Protestant
+Democratic,41,0,Unknown
+Democratic,42,0,Roman Roman Catholic
+Democratic,74,24,Roman Roman Catholic
+Democratic,69,16,Roman Roman Catholic
+Democratic,79,32,Roman Roman Catholic
+Democratic,56,14,Presbyterian
+Democratic,49,4,Methodist
+Democratic,60,6,Unspecified Protestant
+Republican,40,6,Baptist
+Republican,69,6,Roman Roman Catholic
+Republican,34,2,Unspecified Protestant
+Republican,56,0,Unspecified Protestant
+Republican,70,6,Roman Roman Catholic
+Republican,48,4,Unspecified Protestant
+Republican,42,0,Unspecified Protestant
+Republican,75,14,Methodist
+Democratic,44,6,Roman Roman Catholic
+Democratic,26,0,Baptist
+Republican,73,12,Baptist
+Republican,59,16,Greek Orthodox
+Republican,33,0,Messianic Jewish
+Democratic,56,16,Presbyterian
+Republican,51,12,Unspecified Protestant
+Republican,71,16,Baptist
+Republican,44,4,Methodist
+Republican,58,2,Presbyterian
+Republican,44,2,Unspecified Protestant
+Democratic,44,1,Unspecified Protestant
+Republican,42,6,Unspecified Protestant
+Democratic,74,10,Jewish
+Democratic,42,0,Jewish
+Democratic,80,12,Episcopalian
+Democratic,56,18,Jewish
+Republican,61,20,Roman Roman Catholic
+Republican,61,2,Unspecified Protestant
+Republican,69,2,Roman Roman Catholic
+Republican,65,8,Baptist
+Democratic,62,16,Baptist
+Republican,56,6,Non-Denominational Protestant
+Democratic,67,12,Unspecified Protestant
+Democratic,44,2,Unspecified Protestant
+Republican,54,0,Unspecified Protestant
+Democratic,62,4,Unspecified Protestant
+Republican,70,4,Baptist
+Republican,59,2,Baptist
+Republican,70,26,Methodist
+Republican,59,8,Baptist
+Republican,71,8,Methodist
+Democratic,70,4,Baptist
+Republican,48,2,Unspecified Protestant
+Republican,60,0,Roman Roman Catholic
+Democratic,70,4,Unspecified Protestant
+Democratic,46,0,Unspecified Protestant
+Republican,60,4,Unspecified Protestant
+Republican,72,24,Mormon
+Democratic,57,0,Baptist
+Democratic,58,3,Unspecified Protestant
+Democratic,39,0,Methodist
+Democratic,46,3,Unspecified Protestant
+Democratic,64,14,Unspecified Protestant
+Democratic,51,4,Unknown
+Democratic,81,26,Baptist
+Democratic,49,6,Hindu
+Democratic,78,24,Jewish
+Democratic,61,6,Jewish
+Democratic,67,10,Unknown
+Republican,62,8,Baptist
+Democratic,45,0,Unknown
+Democratic,36,4,Unspecified Protestant
+Republican,63,2,Unspecified Protestant
+Republican,54,8,Roman Roman Catholic
+Democratic,46,0,Unspecified Protestant
+Democratic,53,2,Roman Roman Catholic
+Republican,38,1,Baptist
+Republican,43,6,Unspecified Protestant
+Republican,77,4,Unspecified Protestant
+Republican,44,2,Unspecified Eastern Orthodox
+Republican,66,4,Roman Roman Catholic
+Democratic,48,15,Sunni Islam
+Republican,60,12,Lutheran
+Republican,46,0,Unspecified Protestant
+Republican,67,2,Roman Roman Catholic
+Republican,39,2,Non-Denominational Protestant
+Republican,43,0,Roman Roman Catholic
+Republican,54,2,Unspecified Protestant
+Republican,46,2,Lutheran
+Republican,34,2,Roman Roman Catholic
+Democratic,42,4,Unknown
+Republican,66,6,Lutheran
+Republican,62,16,Baptist
+Republican,58,14,Restorationist
+Democratic,43,0,Presbyterian
+Republican,52,11,Methodist
+Republican,64,20,Baptist
+Republican,49,10,Episcopalian
+Republican,57,15,Roman Roman Catholic
+Democratic,65,8,Baptist
+Republican,61,6,Unspecified Protestant
+Republican,67,12,Unspecified Protestant
+Republican,41,2,Presbyterian
+Republican,50,8,Baptist
+Democratic,67,14,Lutheran
+Democratic,40,4,Unknown
+Republican,66,12,Roman Roman Catholic
+Democratic,76,20,Methodist
+Democratic,60,16,Greek Orthodox
+Democratic,61,0,Unspecified Protestant
+Democratic,83,42,Baptist
+Democratic,67,4,Lutheran
+Democratic,74,3,Baptist
+Democratic,60,6,Jewish
+Democratic,73,34,Roman Roman Catholic
+Democratic,63,26,Roman Roman Catholic
+Democratic,49,4,Roman Roman Catholic
+Democratic,34,2,Jewish
+Democratic,59,10,Unspecified Protestant
+Democratic,44,8,Unspecified Protestant
+Democratic,48,4,Baptist
+Democratic,67,22,Roman Roman Catholic
+Democratic,70,12,Roman Roman Catholic
+Republican,75,6,Lutheran
+Republican,61,8,Unspecified Protestant
+Democratic,40,0,Reformed
+Republican,53,12,Reformed
+Republican,71,12,Unspecified Protestant
+Democratic,69,8,Roman Roman Catholic
+Democratic,46,4,Jewish
+Democratic,64,10,Roman Roman Catholic
+Republican,56,2,Roman Roman Catholic
+Republican,41,0,Unspecified Protestant
+Democratic,39,4,Unspecified Protestant
+Democratic,46,4,Sunni Islam
+Democratic,67,0,Unspecified Protestant
+Republican,46,1,Roman Roman Catholic
+Democratic,50,4,Lutheran
+Democratic,54,4,Jewish
+Democratic,68,22,Roman Roman Catholic
+Democratic,40,4,Islam
+Republican,61,8,Roman Roman Catholic
+Republican,57,2,Roman Roman Catholic
+Republican,56,4,Roman Roman Catholic
+Republican,58,3,Unspecified Protestant
+Democratic,72,24,Unspecified Protestant
+Republican,52,4,Baptist
+Republican,63,0,Baptist
+Democratic,46,2,Non-Denominational Protestant
+Republican,60,10,Roman Roman Catholic
+Republican,70,14,Roman Roman Catholic
+Republican,59,0,Unspecified Protestant
+Democratic,78,18,Methodist
+Republican,50,8,Baptist
+Republican,46,0,Unspecified Protestant
+Republican,64,5,Unspecified Protestant
+Republican,61,0,Lutheran
+Republican,62,2,Roman Roman Catholic
+Republican,47,1,Roman Roman Catholic
+Republican,59,6,Unspecified Protestant
+Republican,64,5,Unspecified Protestant
+Democratic,72,10,Greek Orthodox
+Republican,64,12,Unspecified Protestant
+Democratic,51,12,Unspecified Protestant
+Democratic,49,4,Baptist
+Democratic,42,4,Greek Orthodox
+Democratic,66,10,Unspecified Protestant
+Democratic,64,9,Lutheran
+Republican,69,4,Roman Roman Catholic
+Democratic,60,2,Unspecified Protestant
+Republican,64,5,Unspecified Protestant
+Democratic,47,6,Jewish
+Democratic,62,16,Roman Roman Catholic
+Republican,54,0,Baptist
+Democratic,62,16,Roman Roman Catholic
+Democratic,86,26,Roman Roman Catholic
+Democratic,64,11,Baptist
+Democratic,51,4,Roman Roman Catholic
+Democratic,77,8,Baptist
+Democratic,43,2,Unknown
+Democratic,38,0,Roman Roman Catholic
+Democratic,63,2,Roman Roman Catholic
+Republican,44,0,Roman Roman Catholic
+Republican,38,2,Roman Roman Catholic
+Republican,34,0,Catholic
+Republican,40,0,Roman Roman Catholic
+Democratic,69,25,Methodist
+Democratic,47,10,Unspecified Protestant
+Democratic,69,30,Roman Roman Catholic
+Democratic,52,10,Baptist
+Democratic,58,16,Unspecified Protestant
+Democratic,46,0,Jewish
+Republican,42,2,Greek Orthodox
+Democratic,75,31,Jewish
+Democratic,68,6,Roman Roman Catholic
+Democratic,33,4,Roman Roman Catholic
+Democratic,57,8,Unspecified Protestant
+Democratic,46,2,Unknown
+Republican,36,0,Roman Roman Catholic
+Democratic,40,1,Roman Roman Catholic
+Republican,47,0,Unspecified Protestant
+Democratic,73,14,Roman Roman Catholic
+Republican,38,8,Roman Roman Catholic
+Republican,44,2,Unspecified Protestant
+Republican,41,0,Unspecified Protestant
+Republican,61,2,Presbyterian
+Democratic,65,5,Roman Roman Catholic
+Democratic,61,6,Unspecified Protestant
+Democratic,85,32,Episcopalian
+Democratic,81,26,Baptist
+Democratic,59,2,Unitarian Universalist
+Republican,49,10,Roman Roman Catholic
+Democratic,66,0,Baptist
+Republican,79,18,Roman Roman Catholic
+Democratic,66,2,Jewish
+Republican,50,8,Baptist
+Republican,75,30,Baptist
+Republican,51,10,Unspecified Protestant
+Republican,47,18,Roman Roman Catholic
+Republican,62,0,Non-Denominational Protestant
+Democratic,76,9,Baptist
+Democratic,47,0,Unspecified Protestant
+Democratic,57,0,Baptist
+Republican,46,4,Lutheran
+Democratic,68,14,Roman Roman Catholic
+Democratic,46,0,Jewish
+Republican,64,10,Roman Roman Catholic
+Democratic,72,10,Baptist
+Republican,58,16,Unspecified Protestant
+Republican,66,16,Roman Roman Catholic
+Republican,67,12,Unspecified Protestant
+Republican,63,2,Unspecified Protestant
+Republican,52,7,Unspecified Protestant
+Democratic,76,40,Roman Roman Catholic
+Republican,63,20,Unspecified Protestant
+Democratic,70,16,Baptist
+Republican,61,5,Unspecified Protestant
+Democratic,37,0,Baptist
+Republican,65,10,Roman Roman Catholic
+Republican,51,2,Roman Roman Catholic
+Republican,61,5,Unspecified Protestant
+Republican,43,0,Unspecified Protestant
+Republican,63,29,Baptist
+Republican,73,20,Methodist
+Republican,49,2,Roman Roman Catholic
+Democratic,68,11,Jewish
+Republican,71,2,Roman Roman Catholic
+Democratic,74,27,Unknown
+Democratic,58,0,Roman Roman Catholic
+Republican,54,0,Roman Roman Catholic
+Democratic,53,0,Roman Roman Catholic
+Republican,49,6,Roman Roman Catholic
+Democratic,45,8,Roman Roman Catholic
+Democratic,68,7,Baptist
+Democratic,63,4,Roman Roman Catholic
+Democratic,63,5,Roman Roman Catholic
+Democratic,55,4,Unknown
+Democratic,65,5,Jewish
+Democratic,61,10,Roman Roman Catholic
+Republican,58,4,Roman Roman Catholic
+Republican,60,10,Unspecified Protestant
+Republican,59,6,Lutheran
+Democratic,51,12,Unspecified Protestant
+Republican,65,10,Roman Roman Catholic
+Republican,39,4,Unspecified Protestant
+Republican,72,24,Unspecified Protestant
+Republican,58,3,Unspecified Protestant
+Democratic,38,0,Roman Roman Catholic
+Democratic,61,12,Jewish
+Democratic,39,0,Unknown
+Republican,45,2,Non-Denominational Protestant
+Republican,80,12,Episcopalian
+Republican,57,12,Baptist
+Republican,38,4,Unspecified Protestant
+Republican,69,6,Presbyterian
+Democratic,82,30,Methodist
+Republican,37,0,Baptist
+Republican,67,12,Unspecified Protestant
+Republican,63,2,Baptist
+Republican,58,4,Presbyterian
+Republican,60,12,Roman Roman Catholic
+Republican,58,12,Episcopalian
+Republican,51,0,Unspecified Protestant
+Republican,57,4,Restorationist
+Republican,58,4,Unspecified Protestant
+Republican,56,6,Jewish
+Democratic,73,16,Jewish
+Republican,68,12,Baptist
+Republican,38,4,Methodist
+Republican,69,0,Unspecified Protestant
+Republican,55,2,Roman Roman Catholic
+Republican,40,4,Restorationist
+Republican,53,2,Baptist
+Democratic,47,4,Methodist
+Republican,47,0,Baptist
+Democratic,58,4,Unspecified Protestant
+Republican,61,18,Roman Roman Catholic
+Republican,44,2,Unspecified Protestant
+Republican,80,26,Methodist
+Republican,57,0,Baptist
+Republican,69,10,Baptist
+Republican,52,10,Episcopalian
+Democratic,53,4,Roman Roman Catholic
+Republican,67,2,Methodist
+Democratic,51,12,Unspecified Protestant
+Republican,50,6,Presbyterian
+Democratic,48,10,Roman Roman Catholic
+Republican,50,4,Baptist
+Republican,54,2,Unspecified Protestant
+Republican,42,2,Roman Roman Catholic
+Republican,52,2,Episcopalian
+Republican,44,2,Unspecified Protestant
+Republican,72,20,Episcopalian
+Republican,47,5,Unspecified Protestant
+Democratic,67,18,Roman Roman Catholic
+Democratic,46,3,Unspecified Protestant
+Democratic,41,0,Baptist
+Republican,65,8,Baptist
+Democratic,39,4,Methodist
+Democratic,52,10,Baptist
+Democratic,62,16,Roman Roman Catholic
+Democratic,33,0,Roman Roman Catholic
+Republican,74,8,Baptist
+Democratic,76,28,Methodist
+Republican,41,0,Baptist
+Republican,56,2,Baptist
+Republican,62,10,Mormon
+Republican,62,6,Mormon
+Republican,71,2,Mormon
+Democratic,54,0,Jewish
+Democratic,56,8,Lutheran
+Republican,63,16,Episcopalian
+Republican,51,0,Roman Roman Catholic
+Democratic,70,4,Baptist
+Republican,57,2,Unspecified Protestant
+Republican,50,4,Roman Roman Catholic
+Democratic,43,4,Unspecified Protestant
+Democratic,62,16,Episcopalian
+Republican,64,12,Unspecified Protestant
+Democratic,54,4,Unknown
+Democratic,72,14,Roman Roman Catholic
+Democratic,60,11,Episcopalian
+Democratic,57,22,Methodist
+Democratic,34,0,Non-Denominational Protestant
+Republican,67,8,Presbyterian
+Republican,53,18,Non-Denominational Protestant
+Democratic,49,10,Methodist
+Democratic,57,6,Unknown
+Democratic,54,4,Jewish
+Democratic,64,5,Unspecified Protestant
+Democratic,60,2,Unspecified Protestant
+Republican,63,2,Unspecified Protestant
+Republican,51,8,Roman Roman Catholic
+Republican,41,4,Roman Roman Catholic
+Democratic,58,10,Unknown
+Republican,53,0,Unspecified Protestant
+Democratic,56,2,Baptist
+Republican,59,2,Roman Roman Catholic
+Republican,67,8,Lutheran
+Republican,65,3,Unspecified Protestant
+Republican,38,6,Roman Roman Catholic
+Republican,60,0,Non-Denominational Protestant
