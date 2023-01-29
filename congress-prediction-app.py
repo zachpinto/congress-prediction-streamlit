@@ -6,7 +6,8 @@ import pickle
 st.write("""
 # Congress Prediction App
 
-This app predicts the political party of congress reps based on input features such as religion, age, and tenure.
+This app predicts the political party of the members of the 118th Congress based on input features 
+such as religion, age, and tenure.
 
 If you have a CSV file with other political rep information, feel free to upload it in the section to the left. 
 The file must in the the format of: <Party,Age,Tenure,Religion> 
