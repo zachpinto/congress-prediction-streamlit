@@ -15,6 +15,8 @@ The file must in the the format of: <Party,Age,Tenure,Religion>
 Limit of 200 MB per file.
 
 Data obtained entirely from Wikipedia.
+
+Source code can be found here: https://github.com/zachpinto/congress-prediction-streamlit
 """)
 
 st.sidebar.header('User Input Features')
