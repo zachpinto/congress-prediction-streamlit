@@ -1,7 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: linux-64
-_openmp_mutex=5.1=1_gnu
 altair=4.2.2=pypi_0
 attrs=22.2.0=pypi_0
 blas=1.0=mkl
